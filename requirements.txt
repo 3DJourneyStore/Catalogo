@@ -1,3 +1,4 @@
 requests 
 streamlit
 Pillow
+urllib.parse
